@@ -1,0 +1,2 @@
+<import resource="classpath:dubbo/provider.xml" />
+<import resource="classpath:dubbo/consumer.xml" />

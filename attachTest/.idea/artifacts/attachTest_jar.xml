@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="attachTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/attachTest_jar</output-path>
+    <root id="archive" name="attachTest.jar">
+      <element id="module-output" name="attachTest" />
+      <element id="library" level="project" name="libs" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../repository/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

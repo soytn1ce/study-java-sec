@@ -1,0 +1,9 @@
+com\soytn1ce\agent\premain\ModClassInfo.class
+com\soytn1ce\agent\premain\SumClassInfo.class
+com\soytn1ce\agent\dao\User.class
+com\soytn1ce\agent\premain\ModClassInfo$StringTransformer.class
+com\soytn1ce\agent\attach\GetInfo.class
+com\soytn1ce\agent\App.class
+com\soytn1ce\agent\attach\AttachTest.class
+com\soytn1ce\agent\attach\GetInfo$1.class
+com\soytn1ce\agent\premain\GetClassInfo.class
